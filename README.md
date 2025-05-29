@@ -1,6 +1,6 @@
 ## Hands_on-UIUX
-## Name : RITHIKA R
-## Reg. no: 212224240136
+## Name : RAMITHA CHOWDARY S 
+## Reg. no: 212224240130
 ## AIM:
   a. To Explore the fundamentals of UI and UX
 #
@@ -10,39 +10,18 @@
 # 
   d. Demonstrate various UI/UX design tools in detail.
 ## SCREENSHOTS:
-![Screenshot 2025-05-28 143514](https://github.com/user-attachments/assets/74af9c93-a679-468f-87db-aef4936b457f)
 
-![Screenshot 2025-05-28 143529](https://github.com/user-attachments/assets/85370753-7200-4df2-94af-a4dcc42651e9)
+![image](https://github.com/user-attachments/assets/d7063649-179f-4e74-b7a9-13650b394c31)
 
-![Screenshot 2025-05-28 143547](https://github.com/user-attachments/assets/eeeb80cd-45e2-4c5b-b40d-cbac67bfd26f)
-
-![Screenshot 2025-05-28 143558](https://github.com/user-attachments/assets/03fc272d-2441-434e-920e-aa8688df260d)
-
-![Screenshot 2025-05-28 143611](https://github.com/user-attachments/assets/4691eb28-16a7-4305-b1e0-36eabb3e188e)
-
-![Screenshot 2025-05-28 143624](https://github.com/user-attachments/assets/fe86c1a4-fb51-43da-822d-db917ea8db7d)
-
-![Screenshot 2025-05-28 143636](https://github.com/user-attachments/assets/50caa736-046c-4a6b-8961-b08d8e411cd4)
-
-![Screenshot 2025-05-28 143648](https://github.com/user-attachments/assets/e742b8e6-f72c-41e6-a1d6-26e20511e786)
-
-
-
-![Screenshot 2025-05-28 143659](https://github.com/user-attachments/assets/d4f7ab59-6cad-4e30-ae35-cc35dad38922)
-
-![Screenshot 2025-05-28 143716](https://github.com/user-attachments/assets/e1feaa7e-811d-46a7-acb6-14b4aef0f8f4)
-
-
-![Screenshot 2025-05-28 143727](https://github.com/user-attachments/assets/8d81f4f4-1a33-4ec6-900c-fa0ad47ffd70)
-
-![Screenshot 2025-05-28 143739](https://github.com/user-attachments/assets/c152aeba-7792-474b-ba57-b8fa0f8f1001)
-
-
-![Screenshot 2025-05-28 143751](https://github.com/user-attachments/assets/276c58ab-9b11-40eb-a5c2-d48dcb96b473)
-
-
-![Screenshot 2025-05-28 143800](https://github.com/user-attachments/assets/b1b21223-1e77-422b-8ff4-7ed0470baeec)
-
+![image](https://github.com/user-attachments/assets/1b1750d0-7638-4513-afd8-298b1aedbf72)
+![image](https://github.com/user-attachments/assets/defd2b03-0465-49d5-810d-495bd5166bf6)
+![image](https://github.com/user-attachments/assets/8192951d-d0aa-4523-8e73-43d812dd6cdc)
+![image](https://github.com/user-attachments/assets/a8487c54-5004-4991-adbe-38df55792e50)
+![image](https://github.com/user-attachments/assets/25371abf-6952-47a9-9861-d142ba3a8959)
+![image](https://github.com/user-attachments/assets/b653c75d-5bc3-49f3-a92d-f0793f2aaca8)
+![image](https://github.com/user-attachments/assets/3f43bd60-e17c-46ec-9d2c-6bd576d7a61e)
+![image](https://github.com/user-attachments/assets/9046aadd-1f04-44e3-a16d-4ce2c97c5ae5)
+![image](https://github.com/user-attachments/assets/0fe7f0e2-1293-4f26-9851-08296b7481a3)
 
 ## Result:
 Thus, the experiment was completed successfully.
